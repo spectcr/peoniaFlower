@@ -2,7 +2,7 @@
 
 Una animación interactiva de una peonía desarrollada con [p5.js](https://p5js.org/). El proyecto corre directamente en el navegador, siendo súper liviano y sin requerir instalaciones adicionales.
 
-🚀 **[Ver Demo en Vivo Aquí](https://TU_USUARIO.github.io/TU_REPOSITORIO/)** *(Asegúrate de cambiar este enlace por la URL real de tu GitHub Pages)*
+🚀 **[Ver Demo en Vivo Aquí]([https://TU_USUARIO.github.io/TU_REPOSITORIO/](https://spectcr.github.io/peoniaFlower/peonia.html))**
 
 ---
 
